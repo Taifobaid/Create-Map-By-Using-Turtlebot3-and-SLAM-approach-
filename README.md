@@ -1,3 +1,4 @@
+![slim map](https://user-images.githubusercontent.com/67175109/126533449-35ff5505-208e-481f-aa8e-cc389bf5a57f.PNG)
 # Create-Map-By-Using-Turtlebot3-and-SLAM-approach
 ## 1-Download and Install Ubuntu on PC:
 #### Ubuntu 18.04 LTS Desktop image (64-bit)
